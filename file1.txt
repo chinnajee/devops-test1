@@ -2,3 +2,4 @@ i am appending file
 
 i am adding line two
 
+now i am appending from my local git bash
